@@ -2,8 +2,8 @@
  * @name Fallout 4 Terminal
  * @author Bates
  * @version 4.0.0
- * @source https://github.com/B4T3S/Fallout4TerminalTheme
- * @website https://B4T3S.github.io/Fallout4TerminalTheme
+ * @source https://github.com/fdt-themes/Fallout4TerminalTheme
+ * @website https://fdt-themes.github.io/Fallout4TerminalTheme
  * @donate https://www.paypal.com/paypalme/floriancegledi
  * @patreon https://patreon.com/bates
  * @description A theme inspired by Fallout 4's terminals!
@@ -11,10 +11,10 @@
  * @invite 6qd3SkP6Ch
 */
 
-@import url('https://B4T3S.github.io/Fallout4TerminalTheme/mainRewrite.css');
+@import url('https://fdt-themes.github.io/Fallout4TerminalTheme/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-@import url('https://B4T3S.github.io/Fallout4TerminalTheme/css/crtEffect.css');
+@import url('https://fdt-themes.github.io/Fallout4TerminalTheme/css/crtEffect.css');
 /* ^ This is the CRT effect. ^ If you don't like it, remove or comment out this line! */
 
 /* CUSTOMIZE COLORS IN HERE! */

@@ -1,24 +1,24 @@
 .theme-dark {
     // --== Style the gif/emoji/sticker picker ==--
-    .contentWrapper__08434, .header__8ef02, .header_fed6d3, .header_c0e32c, .categoryList__3ad28, .scroller_affa7e, .packHeader_e94b8c, .header_c656ac, .inspector_aeaaeb, .emojiPicker_c0e32c, .unicodeShortcut_b9ee0c, #gif-picker-tab-panel {
+    .contentWrapper_58b0l2, .header_WSRqCO, .header_rfDq2B, .header_-sZhZn, .categoryList_40yGEf, .scroller_EwKtHG, .packHeader_dCw_12, .header_6c9R7U, .inspector_1bDrGE, .emojiPicker_-sZhZn, .unicodeShortcut_ufks4w, #gif-picker-tab-panel {
         background-color: var(--background);
     }
 
-    .emptyGuildUpsell_e94b8c {
+    .emptyGuildUpsell_dCw_12 {
         background-color: var(--background);
         border: 1px solid var(--highlight);
         margin-bottom: 2px;
 
-        .contents__201d5 {
+        .contents_9OQtot {
             color: var(--highlight);
         }
     }
 
-    .categoryItemDefaultCategorySelected_b9ee0c, .stickerCategoryGenericSelected__3ad28 {
+    .categoryItemDefaultCategorySelected_ufks4w, .stickerCategoryGenericSelected_40yGEf {
         background-color: var(--highlight);
     }
 
-    .categoryFadeBlurple_d02962 {
+    .categoryFadeBlurple_d2GpC2 {
         --bg-brand: var(--highlight);
     }
 }

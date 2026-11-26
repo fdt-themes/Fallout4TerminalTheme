@@ -1,30 +1,30 @@
 .theme-dark {
   /* --== Set chat background color to fix transparency issues ==-- */
-  .scrollableContainer__74017 {
+  .scrollableContainer_2x8-Qn {
     background-color: var(--background);
   }
 
   /* --== Fix super bright replying highlights ==-- */
-  .replying__5126c:hover {
+  .replying_SY_P2T:hover {
     background-color: rgba(var(--rgb-highlight), 60%) !important;
   }
 
   /* --== Fix super bright bot-replying highlights ==-- */
-  .ephemeral__5126c {
+  .ephemeral_SY_P2T {
     background-color: rgba(var(--rgb-highlight), 30%);
   }
 
-  .ephemeral__5126c:hover {
+  .ephemeral_SY_P2T:hover {
     background-color: rgba(var(--rgb-highlight), 40%) !important;
   }
 
   /* --== Change mentioned color bar ==-- */
-  .mentioned__5126c::before {
+  .mentioned_SY_P2T::before {
     background-color: var(--highlight);
   }
 
   /* --== Fix the autocomplete ==-- */
-  .autocompleteInner__13533 {
+  .autocompleteInner_CAMiwx {
     background-color: var(--background);
   }
 }

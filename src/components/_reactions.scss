@@ -1,19 +1,19 @@
 .theme-dark {
   /* --== Fix invisible reaction count =-- */
-  .reactionMe__23977 {
+  .reactionMe_MmKct8 {
     border-color: var(--highlight) !important;
 
-    .reactionCount__23977 {
+    .reactionCount_MmKct8 {
       color: var(--background) !important;
     }
   }
 
   /* --== Add border to reactions ==-- */
-    .reaction__23977, .reactionBtn__23977 {
+    .reaction_MmKct8, .reactionBtn_MmKct8 {
         border-color: rgba(var(--rgb-highlight), 30%);
     }
 
-    .reactionBtn__23977:hover {
+    .reactionBtn_MmKct8:hover {
         border-color: var(--rgb-highlight);
     }
 }

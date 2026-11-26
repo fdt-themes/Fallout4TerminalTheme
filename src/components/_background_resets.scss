@@ -11,36 +11,36 @@
 
   /* --== Make everything (which needs to be) transparent ==-- */
   // The main App background
-  .appMount__51fd7, .app__160d8, .bg__960e4,
+  .appMount_gEkNtR, .app_QbT-Jy, .bg_Fd0FEH,
   // The guild list
-  .guilds__5e434, .scroller_ef3116,
+  .guilds_pog62O, .scroller_5dqHTG,
   // The channel list
-  .sidebar__5e434, .sidebar__5e434::after, .container__2637a,
+  .sidebar_pog62O, .sidebar_pog62O::after, .container_H5ozaj,
   // The chat
-  .chat_f75fb0, .chatContent_f75fb0,
+  .chat_z_gUBg, .chatContent_z_gUBg,
   // The title bar
-  .title_f75fb0,
+  .title_z_gUBg,
   // The search bar,
-  .searchBar__97492,
+  .searchBar_i16Ad0,
   // The user list
-  .container_c8ffbb, .members_c8ffbb, .content_f75fb0, .container__91a9d,
+  .container_86es0b, .members_86es0b, .content_z_gUBg, .container_J1Adu_,
   // The chat box
-  .channelTextArea__74017,
+  .channelTextArea_2x8-Qn,
   // The friends page
-  .container__133bf, .section__00943, .nowPlayingColumn__133bf,
-  .container__7d20c, .itemCard__7e549, .section__00943, .inset_bf1984,
-  .container__9293f, .privateChannels_e6b769, .scroller__99e7c,
+  .container_zrUwGA, .section_o3hXTo, .nowPlayingColumn_zrUwGA,
+  .container_GNEh_C, .itemCard_-7KzVR, .section_o3hXTo, .inset_ERB-Vv,
+  .container_ybUK7Z, .privateChannels_u88IQl, .scroller_Bce46W,
   // The settings page
-  .layer__960e4 , .standardSidebarView__23e6b, .sidebarRegionScroller__23e6b,
-  .contentRegion__23e6b, .contentRegionScroller__23e6b,
+  .layer_Fd0FEH , .standardSidebarView_jnk11m, .sidebarRegionScroller_jnk11m,
+  .contentRegion_jnk11m, .contentRegionScroller_jnk11m,
   // The Library page
-  .container__4a84a, .stickyHeader_adb41f, .scroller_fb04e1,
+  .container_0GMCuY, .stickyHeader_-JvGQh, .scroller_tvrI4g,
   // The Explore servers page
   .pageWrapper_a3a4ce,
   // The Explore servers icon
   .footer__214dc,
   // The Forum page 
-  .container_f369db {
+  .container_BkGrJJ {
     background: transparent !important;
   }
 }

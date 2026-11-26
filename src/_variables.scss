@@ -1,6 +1,9 @@
 :root,
 .visual-refresh,
-.visual-refresh.theme-dark {
+.visual-refresh.theme-dark,
+.theme-dark.theme-dark,
+.theme-midnight.theme-midnight,
+.theme-darker.theme-darker {
   --highlight: rgb(var(--rgb-highlight));
   --rgb-background: 0, 9, 0;
   --background: rgb(var(--rgb-background));
@@ -40,6 +43,39 @@
   --custom-title-margin-left: 0px;
 
   /* --== Modifying some default variables ==-- */
+
+  /* --== FDT: current Discord variable names (2025+ UI) ==-- */
+  --app-frame-background: var(--background);
+  --background-base-lower: var(--background);
+  --background-surface-higher: var(--background);
+  --background-surface-highest: var(--background);
+  --bg-surface-raised: var(--background);
+  --chat-background-default: var(--background);
+  --channel-background-default: var(--background);
+  --panel-bg: var(--background);
+  --home-background: var(--background);
+  --card-background-default: var(--background);
+  --embed-background: var(--background);
+  --input-background-default: var(--background);
+
+  --text-default: var(--text);
+  --text-strong: var(--highlight);
+  --text-subtle: var(--text);
+  --channel-icon: var(--text);
+  --icon-default: var(--text);
+  --icon-muted: var(--text);
+  --icon-strong: var(--highlight);
+  --interactive-text-default: var(--text);
+  --interactive-text-hover: var(--highlight);
+  --interactive-text-active: var(--highlight);
+  --interactive-icon-default: var(--text);
+  --interactive-icon-hover: var(--highlight);
+  --interactive-icon-active: var(--highlight);
+
+  --font-primary: "Share Tech Mono", monospace;
+  --font-display: "Share Tech Mono", monospace;
+  --font-headline: "Share Tech Mono", monospace;
+  --font-code: "Share Tech Mono", monospace;
 
   /* --== BACKGROUND ==-- */
   --background-primary: var(--background);

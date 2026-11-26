@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CommandCrafterHD/Fallout4TerminalTheme.git"
+    "url": "git+https://github.com/fdt-themes/Fallout4TerminalTheme.git"
   },
   "author": "Bates#7075",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CommandCrafterHD/Fallout4TerminalTheme/issues"
+    "url": "https://github.com/fdt-themes/Fallout4TerminalTheme/issues"
   },
-  "homepage": "https://github.com/CommandCrafterHD/Fallout4TerminalTheme#readme",
+  "homepage": "https://github.com/fdt-themes/Fallout4TerminalTheme#readme",
   "dependencies": {
     "sass": "^1.58.3",
     "watch": "^1.0.2"

@@ -18,6 +18,8 @@ Its goal is to mimic the look and feel of the VaultTec(r) terminals from Fallout
 
 <h2>Installation</h2>
 
+**Easiest:** open the theme on the [FDT site](https://kazrutx.github.io/discord-themes-fixed/?q=Fallout%204%20Terminal) and click **Download** (BetterDiscord) or **Copy Vencord link** (Vencord / Vesktop).
+
 <h3>Vencord / Vesktop</h3>
 
 1. Go into Discord's settings → Themes → **Online Themes**
@@ -28,7 +30,7 @@ https://fdt-themes.github.io/Fallout4TerminalTheme/Fallout4Terminal.theme.css
 
 <h3>BetterDiscord</h3>
 
-1. Download [Fallout4Terminal.theme.css](https://fdt-themes.github.io/Fallout4TerminalTheme/Fallout4Terminal.theme.css) (right-click → Save link as)
+1. Download the theme from the [FDT site](https://kazrutx.github.io/discord-themes-fixed/?q=Fallout%204%20Terminal)
 2. Go into Discord's settings → Themes → "Open theme folder"
 3. Move the file into the folder you just opened
 4. Enable the theme

@@ -45,7 +45,7 @@
                 <input type="range" min="0" max="255" value="239" step="1" class="slider" id="customG" oninput="updateColors()" onchange="logColor()">
                 <input type="range" min="0" max="255" value="152" step="1" class="slider" id="customB" oninput="updateColors()" onchange="logColor()">
               </div>
-              <p class="card-text">Just edit the <b class="title">--text-color</b> variable in your Fallout4Terminal.theme.css file!</p>
+              <p class="card-text">Just set <b class="title">--rgb-text</b> and <b class="title">--rgb-highlight</b> in your Fallout4Terminal.theme.css file (or in Quick CSS)!</p>
               <p>(The color you have currently created would be <b class="title", id="hexText">#4AEF98</b> btw.)</p>
             </div>
           </div>
@@ -108,7 +108,7 @@
 
       function updateColors() {
         root.style.setProperty('--highlight', '#' + decimalToHex(customR.value) + decimalToHex(customG.value) + decimalToHex(customB.value));
-        hexText.innerHTML = '#' + decimalToHex(customR.value) + decimalToHex(customG.value) + decimalToHex(customB.value);
+        hexText.innerHTML = customR.value + ', ' + customG.value + ', ' + customB.value;
       }
 
       function logColor() {

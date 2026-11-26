@@ -8,8 +8,17 @@
  * @patreon https://patreon.com/bates
  * @description A theme inspired by Fallout 4's terminals!
  * @authorId 137259132305539072
- * @invite 6qd3SkP6Ch
+ * @invite nHPjQ8TTX3
 */
+
+/*
+ * FDT:
+ * 2026-11-26 - moved under fdt-themes
+ *              updated class names for the current Discord UI
+ *
+ * Maintained by FDT - https://github.com/fdt-themes/Fallout4TerminalTheme
+ * Original theme by Bates (B4T3S/Fallout4TerminalTheme), adopted with his permission.
+ */
 
 @import url('https://fdt-themes.github.io/Fallout4TerminalTheme/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
